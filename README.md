@@ -16,6 +16,8 @@ Snapshot is a recreation and weather planning app that focuses on 8 unique and p
 
 <img src="https://github.com/cboswel1/Recreation-Weather-Planner/blob/master/Assets/ModalDemo2.png?raw=true" height="256" title="Modal Demo 2">
 
+![Weather Dashboard GIF](RecWeatherPlanner.gif/)
+
 ## How Does It Work? 
 
 Click here for a [live demo]()
