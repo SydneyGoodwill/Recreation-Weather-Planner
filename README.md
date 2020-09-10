@@ -23,14 +23,21 @@ Snapshot is a recreation and weather planning app that focuses on 8 unique and p
 Click here for a [live demo]()
 
 ## Live Site 
-Link to live site [Recreation-Weather-Planner](https://cboswel1.github.io/Recreation-Weather-Planner/) 
+Link to live site [Recreation-Weather-Planner](https://sydneygoodwill.github.io/Recreation-Weather-Planner/) 
 
 ## Authored By 
 This application was authored by [Christian Boswell](https://github.com/cboswel1), [Sydney Goodwill](https://github.com/SydneyGoodwill), [Niel Gerber](https://github.com/Nggerber)  
 
 ## Acknowledgements 
+
+UI of Main Page, graphics and design: Sydney Goodwill
+API functionality: Christian Boswell
+Modal UI and functionality: Neal Gerber
+
 [Open Weather API](https://openweathermap.org/) 
 
 [Map Box API](https://www.mapbox.com/)
 
 [Google Fonts](https://fonts.google.com/)
+
+[Free BG Design ELement](https://www.uokpl.rs/rsvi/hxiJTT_transparent-background-mountain/)
